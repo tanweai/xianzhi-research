@@ -103,7 +103,7 @@ LLM 不能彻底帮你解决这些问题，因为 LLM 无法覆盖具体的思�
 ```
 /vuln-research 我在测试一个Java应用，找到了一个反序列化入口但不知道怎么利用
 ```
-<img width="600" alt="场景一：漏洞挖掘思路" src="https://github.com/user-attachments/assets/32482679-ee04-491a-9af7-95cbe7ecbfb3" />
+<img width="100" alt="场景一：漏洞挖掘思路" src="https://github.com/user-attachments/assets/32482679-ee04-491a-9af7-95cbe7ecbfb3" />
 
 
 ### 场景二：规划完整渗透路径
@@ -113,7 +113,7 @@ LLM 不能彻底帮你解决这些问题，因为 LLM 无法覆盖具体的思�
 ```
 /vuln-research 帮我规划从Web入口到域控的完整攻击路径
 ```
-<img width="600" alt="场景二：渗透路径规划" src="https://github.com/user-attachments/assets/ffdeee4d-1b99-4142-a76b-ac50f046e5fd" />
+<img width="100" alt="场景二：渗透路径规划" src="https://github.com/user-attachments/assets/ffdeee4d-1b99-4142-a76b-ac50f046e5fd" />
 
 ### 场景三：分析一个新 CVE
 
