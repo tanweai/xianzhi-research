@@ -1,4 +1,4 @@
-<img width="516" height="314" alt="image" src="https://github.com/user-attachments/assets/be2ab786-778a-4c0b-91c4-879a2cead603" /># 🔐 安全研究元思考方法论
+# 🔐 安全研究元思考方法论
 
 > 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
 
