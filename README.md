@@ -1,6 +1,6 @@
 # 公众号搜索“探微杜渐人工智能”
 微信群已经满了 可以加我微信 拉你进群
-<img width="100" alt="微信二维码" src="https://github.com/user-attachments/assets/3bc7a5b4-a975-4cda-be6d-b662b117cbea" />
+<img width="200" alt="微信二维码" src="https://github.com/user-attachments/assets/3bc7a5b4-a975-4cda-be6d-b662b117cbea" />
 
 
 # 🔐 安全研究元思考方法论
