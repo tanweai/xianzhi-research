@@ -1,4 +1,4 @@
-# 🔐 安全研究元思考方法论
+<img width="516" height="314" alt="image" src="https://github.com/user-attachments/assets/be2ab786-778a-4c0b-91c4-879a2cead603" /># 🔐 安全研究元思考方法论
 
 > 从先知社区 5621 篇安全文档中提炼的漏洞挖掘核心思维框架
 
@@ -98,6 +98,8 @@ LLM 不能彻底帮你解决这些问题，因为 LLM 无法覆盖具体的思�
 ```
 /vuln-research 我在测试一个Java应用，找到了一个反序列化入口但不知道怎么利用
 ```
+<img width="1040" height="1152" alt="image" src="https://github.com/user-attachments/assets/32482679-ee04-491a-9af7-95cbe7ecbfb3" />
+
 
 ### 场景二：规划完整渗透路径
 
@@ -106,6 +108,7 @@ LLM 不能彻底帮你解决这些问题，因为 LLM 无法覆盖具体的思�
 ```
 /vuln-research 帮我规划从Web入口到域控的完整攻击路径
 ```
+<img width="1010" height="1114" alt="image" src="https://github.com/user-attachments/assets/ffdeee4d-1b99-4142-a76b-ac50f046e5fd" />
 
 ### 场景三：分析一个新 CVE
 
